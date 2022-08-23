@@ -1,0 +1,6 @@
+#1 Generate 2 Uppercase letters
+#2 Generate 2 Lowercase letters
+#3 Generate 2 numbers
+#4 Generate 2 symbols
+#5 Join everything in a password variable
+#6 Shuffle the variable and print
